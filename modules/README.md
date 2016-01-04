@@ -6,7 +6,7 @@ In index.html I use
 <script data-main="./main" async 
   src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.18/require.min.js"></script>
 ```
-this way it loads modules asynchroniously. 
+this way it loads modules asynchroniously. **data-main** attribute tells the loader what module to load first, whenever the module is ready.
   
 If I were using 
 
