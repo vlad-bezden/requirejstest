@@ -8,7 +8,7 @@ In index.html I use
 ```
 this way it loads modules asynchroniously. 
   
-  If I were using 
+If I were using 
 
 ``` javascript  
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.18/require.min.js"></script>
